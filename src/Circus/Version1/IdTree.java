@@ -1,7 +1,7 @@
 package Circus.Version1;
 
 import Circus.Employee;
-import SelfCreations.Trees.*;
+import DataStructures.Trees.*;
 
 import java.util.Comparator;
 

@@ -1,7 +1,7 @@
 package Circus.Version1;
 
 import Circus.Employee;
-import SelfCreations.Trees.*;
+import DataStructures.Trees.*;
 
 /**
  * Created by Jacks on 5/30/18.

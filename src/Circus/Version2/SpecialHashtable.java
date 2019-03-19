@@ -1,7 +1,7 @@
 package Circus.Version2;
 
 import Circus.Employee;
-import SelfCreations.AdvancedIterator;
+import DataStructures.AdvancedIterator;
 
 import java.util.Iterator;
 

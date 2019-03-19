@@ -1,8 +1,8 @@
 package Circus.Version1;
 
 import Circus.Employee;
-import SelfCreations.AdvancedIterator;
-import SelfCreations.Trees.*;
+import DataStructures.AdvancedIterator;
+import DataStructures.Trees.*;
 
 import java.util.Arrays;
 import java.util.Iterator;
