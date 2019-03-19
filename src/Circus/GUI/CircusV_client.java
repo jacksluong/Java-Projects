@@ -30,7 +30,6 @@ import javafx.util.Duration;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Iterator;
-import java.util.LinkedList;
 import java.util.Scanner;
 
 /**
@@ -69,8 +68,7 @@ public class CircusV_client extends Application {
 
     final Pane mainDisplay = new Pane();
     final FeedbackManager feedbackManager = new FeedbackManager(mainDisplay);
-    final LinkedList<Text> l = new LinkedList<>(); // list of feedback messages after a completed action
-
+    
     /* Primary data structures */
     final NameTree names = new NameTree();
     final IdTree ids = new IdTree(new IdComparator());

@@ -29,7 +29,6 @@ import java.util.Arrays;
  * - Each ring has to be smaller than the ring below it (unless it's the bottom one).
  */
 
-@SuppressWarnings("IntegerDivisionInFloatingPointContext")
 public class TowersOfHanoi extends Application {
     /*
      * Project Stages

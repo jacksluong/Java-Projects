@@ -648,8 +648,6 @@ class Trail {
     
     public Tile pop() { return size > 0 ? path[--size] : null; }
     
-    public Tile peek() { return path[size - 1]; }
-    
     public void empty() {
         size = 0;
     }
