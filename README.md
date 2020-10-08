@@ -1,5 +1,5 @@
 # Java Portfolio
-A place to find all of my personal Java projects.
+A place to find all of my personal Java projects. (Go into the src folder.)
 
 The subfolders DataStructure, JavaFX, and Other contain the contents of my custom-made library created for any potential code reuse in my projects, including data structures (e.g. AVL tree) and JavaFX objects (e.g. a popup prompt). It is used as a dependency in the IntelliJ project, but for the lack of my ability to add dependencies to this repository, I have manually added the files in the src folder.
 
